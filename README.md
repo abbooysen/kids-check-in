@@ -1,7 +1,7 @@
 # Kids Attendance Tracker
 
 A modern web application for tracking attendance in kids ministry programs, built with Next.js 15 and React 19.
-
+ 
 ## 🛠 Tech Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org/)
